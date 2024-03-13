@@ -1,4 +1,4 @@
-# How to create a simple python ai chatbot
+# Simple Python AI Chatbot
 **Author**: Debugshala
 
 ## Overview

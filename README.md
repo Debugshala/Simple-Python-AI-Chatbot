@@ -1,4 +1,4 @@
-Python AI Chatbot using Gemini API
+**Python AI Chatbot using Gemini API**
 
 Overview:
 
